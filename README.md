@@ -1,5 +1,6 @@
 # Milestone1
-01, Prep & Analysis
 
-02, Target customer(s) & observe
+Lab01, Prep & Analysis
+
+Lab02, Target customer(s) & observe
 
